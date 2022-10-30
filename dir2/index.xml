@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir2s on Learning and Control in Surgical Robotics</title>
+    <link>https://bentferrari.github.io/dir2/</link>
+    <description>Recent content in Dir2s on Learning and Control in Surgical Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 18:23:08 +0800</lastBuildDate><atom:link href="https://bentferrari.github.io/dir2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcement Learning-based Control of Continuum Robot</title>
+      <link>https://bentferrari.github.io/dir2/b/</link>
+      <pubDate>Sat, 29 Oct 2022 18:23:08 +0800</pubDate>
+      
+      <guid>https://bentferrari.github.io/dir2/b/</guid>
+      <description>Accepted by RAL-CASE 2021</description>
+    </item>
+    
+  </channel>
+</rss>
